@@ -11,6 +11,7 @@ namespace delete
         static void Main(string[] args)
         {
             Console.WriteLine("대재학");
+            Console.WriteLine("여홀나 출시");
         }
     }
 }
