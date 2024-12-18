@@ -10,7 +10,8 @@ namespace delete
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("안뇽하세용");
+            Console.WriteLine("테슷트입니다");
         }
     }
 }
